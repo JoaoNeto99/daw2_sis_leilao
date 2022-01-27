@@ -27,8 +27,8 @@ spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=user_micro
 
 #Banco local - user_micro
 spring.datasource.url=jdbc:postgresql://localhost/leilao_db
-spring.datasource.username=postgres
-spring.datasource.password=monalisa
+spring.datasource.username=
+spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=update
 
 
