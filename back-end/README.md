@@ -42,8 +42,8 @@ jwt.authorities.key=roles
 #spring-boot-starter-mail properties
 spring.mail.host=smtp.outlook.com
 spring.mail.port=587
-spring.mail.username=leilao7499@outlook.com
-spring.mail.password=leilao123
+spring.mail.username=
+spring.mail.password=
 spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 spring.mail.properties.mail.smtp.starttls.required=true
