@@ -24,7 +24,7 @@ npm install
 ```
 ## Executando
 ```
-yarn dev
+yarn start
 ```
 
 ## Contato
